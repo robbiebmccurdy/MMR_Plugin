@@ -1,0 +1,7 @@
+name: MMR_Plugin
+version: '${project.version}'
+main: com.github.robbiebmccurdy.mmr_plugin.MMR_Plugin
+api-version: 1.18
+authors: [ Mistzz ]
+description: MMR Plugin that assigns MMR to players based on wins/losses and ranks them on a leaderboard.
+website: github.com/robbiebmccurdy
